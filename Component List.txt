@@ -1,0 +1,17 @@
+Transformer 9-0-9 2A Rated-1no.
+1N5408 Diode -4 nos.
+1N4007 Diode-1 no.
+4700uF 25V Electrolytic Capacitor -1 no.
+10k resistor  ¼ watt -2 nos.
+1k resistor  ¼ watt -1 nos.
+IRFZ44N MOSFET- 1 no.
+7805 Voltage regulator IC-1 no.
+7812 Voltage regulator IC-1 no.
+Heatsink TO220 Package -3 nos.
+Led -1 no.
+2 pin Screw terminal- 1 no.
+3 pin Screw terminal-1 no.
+3 pin JST XH Relimate connector(RMC) Male Female pair with Wire /cable -2 nos.
+2 pin JST XH Relimate connector(RMC) Male Female pair with Wire /cable -1 no.
+12V Cooling Fan -1 no.
+
